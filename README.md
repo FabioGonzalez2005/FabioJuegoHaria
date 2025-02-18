@@ -21,7 +21,7 @@ Durante el recorrido, encontrarás distintos obstáculos y desafíos que pondrá
 ---
 
 ## 📷 Captura de pantalla del juego
-![image](https://github.com/user-attachments/assets/547b0a09-bc2d-498a-9afe-c14707c6265d)
+![image](https://github.com/user-attachments/assets/de363522-cbb2-4591-b6ae-4ce5167ba2f8)
 
 
 ---
