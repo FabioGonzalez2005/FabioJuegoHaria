@@ -20,10 +20,10 @@ Durante el recorrido, encontrarás distintos obstáculos y desafíos que pondrá
 
 ---
 
-## 📷 Captura de pantalla del juego
+## 📷 Capturas de pantalla del juego
 ![image](https://github.com/user-attachments/assets/de363522-cbb2-4591-b6ae-4ce5167ba2f8)
 ![image](https://github.com/user-attachments/assets/ea38e321-bbed-4d48-9d31-504c07875ecc)
-
+![image](https://github.com/user-attachments/assets/62782ae8-bdc0-4866-9ed5-c04af3fcb759)
 
 ---
 
